@@ -4,3 +4,4 @@
 
 ## 2026-09-24
 - `fun/fireworks.py` — terminal fireworks. Rockets arc up, burst into gravity-pulled sparks in 12 ANSI colors, grand finale included. `python3 fun/fireworks.py --show 20` for a bigger sky.
+- 2026-09-25: `life/rule30.py` — rule 30 cellular automaton; one seed cell, 120-column ASCII chaos. `python3 life/rule30.py --seed 7` for a reproducible unravel.
